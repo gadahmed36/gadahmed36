@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Gad Ahmed 
+## 👋 Hello, I’m Gad Ahmed 
 ### 👀 I’m interested in Web Devolpment.
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 #### I’m currently learning ASP.Net Core.
