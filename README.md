@@ -1,6 +1,6 @@
-## 👋 **Hi, I’m Gad Ahmed**
+## 👋 Hi, I’m Gad Ahmed 
 ### 👀 I’m interested in Web Devolpment.
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)               ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=HTML,CSS)](https://skillicons.dev)
 - 🌱 I’m currently learning ASP.Net Core
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
