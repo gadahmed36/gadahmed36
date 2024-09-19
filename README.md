@@ -1,10 +1,10 @@
-### Hi there 👋, I’m Gad Ahmed
+## Hi there 👋, I’m Gad Ahmed
 ![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-👀 I’m interested in Web Devolpment.
-
-- 🔭 I’m currently working on this page. 
+### 👀 I’m interested in Web Devolpment.
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 - 🌱 I’m currently learning  ASP.Net Core. 
+
 
 
 
