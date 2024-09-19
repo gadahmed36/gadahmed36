@@ -1,5 +1,6 @@
-## 👋 Hi, I’m Gad Ahmed
-- 👀 I’m interested in Web Devolpment.
+## 👋 **Hi, I’m Gad Ahmed**
+# 👀 I’m interested in Web Devolpment.
+- HTML and CSS
 - 🌱 I’m currently learning ASP.Net Core
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
