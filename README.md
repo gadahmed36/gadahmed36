@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Gad Ahmed 
 ### 👀 I’m interested in Web Devolpment.
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 - 🌱 I’m currently learning ASP.Net Core
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
