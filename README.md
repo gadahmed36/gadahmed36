@@ -2,7 +2,7 @@
 
 ### 👀 I’m interested in Web Devolpment.
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
-- 🌱 I’m currently learning  ASP.Net Core. 
+- 🌱 I’m currently learning  Java Script. 
 
 
 
