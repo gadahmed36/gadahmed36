@@ -1,6 +1,6 @@
 ## Hi there 👋, I’m Gad Ahmed
 
-### 👀 I’m interested in Web Devolpment.
+### 👀 I’m Aspiring in Cypersecurity | Digital Forensics | Blue Team 🔵
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 - 🌱 I’m currently learning  JavaScript. 
 
