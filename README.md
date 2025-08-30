@@ -2,7 +2,6 @@
 
 ### 👀 I’m Aspiring in Cypersecurity | Digital Forensics | Blue Team 🔵
 
-- 🌱 I’m currently learning  JavaScript. 
 
 
 
