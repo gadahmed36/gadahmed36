@@ -53,6 +53,6 @@ I'm always open to discussing cybersecurity, digital forensics, and networking.
 
 ---
 
-### ⚠️ Disclaimer
+### ⚠️ Note:
 
 The knowledge and skills listed are for **educational and ethical purposes only**.
