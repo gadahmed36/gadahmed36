@@ -12,7 +12,7 @@ I'm building a foundation for a career in cybersecurity defense with focused kno
 *   OSI and TCP/IP models
 *   IP addressing and subnetting
 *   Network devices (routers, switches)
-*   Configuring and troubleshooting networks via Cisco Packet Tracer
+*   Configuring and troubleshooting networks 
 *   Network security fundamentals
 
 **Cyber Threats & Defense**
@@ -45,7 +45,7 @@ I'm building a foundation for a career in cybersecurity defense with focused kno
 
 ### 📫 Let's Connect!
 
-I'm always open to discussing cybersecurity, digital forensics, and networking.
+I'm always open to discussing cybersecurity, digital forensics, networking, and also Ethical Hacking.
 
 *   [LinkedIn](https://www.linkedin.com/in/gad-ahmed-0a259728a/)
 *   Email: ga740074@gmail.com
